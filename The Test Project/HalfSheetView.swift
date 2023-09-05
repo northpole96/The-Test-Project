@@ -23,6 +23,7 @@ struct HalfSheetView: View {
                 Text("SpiderMan")
                 Text("Style")
                 Text("Abbreviation")
+                Text("originally in Split")
                 
             }
             .tabViewStyle(.page)
