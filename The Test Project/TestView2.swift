@@ -23,6 +23,7 @@ struct TestView2: View {
                             VStack(alignment:.leading) {
                                 Text("0").font(.title)
                                 Text("Days")
+                                Text("Alter Ego")
                                 
                             }
                             Spacer()
