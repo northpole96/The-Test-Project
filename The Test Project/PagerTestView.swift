@@ -16,12 +16,15 @@ struct PagerTestView: View {
         }
         .sheet(isPresented: $isShowing){
             TabView{
-                Text("H1")
-                Text("H2")
-                Text("H3")
-                Text("H4")
-                
+                Text("H1").foregroundColor(Color.yellow).font(.largeTitle).fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
+                Text("H2").foregroundColor(Color.pink).font(.largeTitle).fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
+                Text("H3").foregroundColor(Color.gray).font(.largeTitle).fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
+                Text("H4").foregroundColor(Color.blue).font(.largeTitle).fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
+                Text("Next") .foregroundColor(Color.mint).font(.largeTitle).fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
+                   
+              
             }
+            
             .tabViewStyle(.page)
             .indexViewStyle(.page(backgroundDisplayMode: .always))
             .presentationDetents([.medium])
