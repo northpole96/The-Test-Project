@@ -21,6 +21,7 @@ struct HalfSheetView: View {
                 Text("H3")
                 Text("H4")
                 Text("SpiderMan")
+                Text("Style")
                 
             }
             .tabViewStyle(.page)
