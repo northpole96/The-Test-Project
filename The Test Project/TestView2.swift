@@ -5,6 +5,10 @@
 //  Created by Rajesh Khuntia on 03/09/23.
 //
 
+//This view shows a rectangle along with a Form(not technically ) and also scrolls
+//Turns out the trick is not to use Form but List and list style as InsetGroupedListStyle()
+
+
 import SwiftUI
 
 struct TestView2: View {
