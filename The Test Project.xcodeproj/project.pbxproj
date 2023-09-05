@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F0A8DF52AA750ED00722F56 /* HexColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0A8DF42AA750ED00722F56 /* HexColorView.swift */; };
+		1F0A8DF72AA7584B00722F56 /* CustomCheckList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0A8DF62AA7584B00722F56 /* CustomCheckList.swift */; };
 		1FAAED502AA4873800360CC0 /* The_Test_ProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAAED4F2AA4873800360CC0 /* The_Test_ProjectApp.swift */; };
 		1FAAED522AA4873800360CC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAAED512AA4873800360CC0 /* ContentView.swift */; };
 		1FAAED542AA4873C00360CC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FAAED532AA4873C00360CC0 /* Assets.xcassets */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F0A8DF42AA750ED00722F56 /* HexColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexColorView.swift; sourceTree = "<group>"; };
+		1F0A8DF62AA7584B00722F56 /* CustomCheckList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCheckList.swift; sourceTree = "<group>"; };
 		1FAAED4C2AA4873800360CC0 /* The Test Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The Test Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FAAED4F2AA4873800360CC0 /* The_Test_ProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = The_Test_ProjectApp.swift; sourceTree = "<group>"; };
 		1FAAED512AA4873800360CC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,7 +65,9 @@
 				1FAAED652AA4883A00360CC0 /* HalfSheetView.swift */,
 				1FAAED632AA4883500360CC0 /* PagerTestView.swift */,
 				1FAAED612AA4882A00360CC0 /* TestView2.swift */,
+				1F0A8DF62AA7584B00722F56 /* CustomCheckList.swift */,
 				1FAAED512AA4873800360CC0 /* ContentView.swift */,
+				1F0A8DF42AA750ED00722F56 /* HexColorView.swift */,
 				1FAAED532AA4873C00360CC0 /* Assets.xcassets */,
 				1FAAED552AA4873C00360CC0 /* Preview Content */,
 			);
@@ -148,9 +154,11 @@
 			files = (
 				1FAAED642AA4883500360CC0 /* PagerTestView.swift in Sources */,
 				1FAAED522AA4873800360CC0 /* ContentView.swift in Sources */,
+				1F0A8DF52AA750ED00722F56 /* HexColorView.swift in Sources */,
 				1FAAED502AA4873800360CC0 /* The_Test_ProjectApp.swift in Sources */,
 				1FAAED662AA4883A00360CC0 /* HalfSheetView.swift in Sources */,
 				1FAAED622AA4882A00360CC0 /* TestView2.swift in Sources */,
+				1F0A8DF72AA7584B00722F56 /* CustomCheckList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
