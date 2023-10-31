@@ -11,6 +11,7 @@
 		1F0A8DF72AA7584B00722F56 /* CustomCheckList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0A8DF62AA7584B00722F56 /* CustomCheckList.swift */; };
 		1F3D18642AA89C03009E3A26 /* VGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F3D18632AA89C03009E3A26 /* VGrid.swift */; };
 		1F3D18662AA8AB70009E3A26 /* AdaptivePagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F3D18652AA8AB70009E3A26 /* AdaptivePagerView.swift */; };
+		1F9D83422AF12E8F00AD193D /* TestView5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9D83412AF12E8F00AD193D /* TestView5.swift */; };
 		1FAAED502AA4873800360CC0 /* The_Test_ProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAAED4F2AA4873800360CC0 /* The_Test_ProjectApp.swift */; };
 		1FAAED522AA4873800360CC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAAED512AA4873800360CC0 /* ContentView.swift */; };
 		1FAAED542AA4873C00360CC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FAAED532AA4873C00360CC0 /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 		1F0A8DF62AA7584B00722F56 /* CustomCheckList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCheckList.swift; sourceTree = "<group>"; };
 		1F3D18632AA89C03009E3A26 /* VGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VGrid.swift; sourceTree = "<group>"; };
 		1F3D18652AA8AB70009E3A26 /* AdaptivePagerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptivePagerView.swift; sourceTree = "<group>"; };
+		1F9D83412AF12E8F00AD193D /* TestView5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView5.swift; sourceTree = "<group>"; };
 		1FAAED4C2AA4873800360CC0 /* The Test Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The Test Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FAAED4F2AA4873800360CC0 /* The_Test_ProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = The_Test_ProjectApp.swift; sourceTree = "<group>"; };
 		1FAAED512AA4873800360CC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				1F0A8DF42AA750ED00722F56 /* HexColorView.swift */,
 				1F3D18652AA8AB70009E3A26 /* AdaptivePagerView.swift */,
 				1F3D18632AA89C03009E3A26 /* VGrid.swift */,
+				1F9D83412AF12E8F00AD193D /* TestView5.swift */,
 				1FAAED532AA4873C00360CC0 /* Assets.xcassets */,
 				1FAAED552AA4873C00360CC0 /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 				1FAAED522AA4873800360CC0 /* ContentView.swift in Sources */,
 				1F3D18642AA89C03009E3A26 /* VGrid.swift in Sources */,
 				1F0A8DF52AA750ED00722F56 /* HexColorView.swift in Sources */,
+				1F9D83422AF12E8F00AD193D /* TestView5.swift in Sources */,
 				1FAAED502AA4873800360CC0 /* The_Test_ProjectApp.swift in Sources */,
 				1FAAED662AA4883A00360CC0 /* HalfSheetView.swift in Sources */,
 				1FAAED622AA4882A00360CC0 /* TestView2.swift in Sources */,
